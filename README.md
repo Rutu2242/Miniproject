@@ -30,3 +30,6 @@ This file plots the required simulation graphs, with each section covering one p
 * MATLAB R2020b (Version 9.9)
 * Global Optimization Toolbox
 * Optimization Toolbox
+
+Github link
+https://github.com/Rutu2242/Miniproject
